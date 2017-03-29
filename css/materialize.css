@@ -2374,7 +2374,7 @@ textarea {
   /* 1 */
   font: inherit;
   /* 2 */
-  margin: 0;
+  margin:0;
   /* 3 */
 }
 
@@ -5406,6 +5406,7 @@ button.btn-floating {
   vertical-align: middle;
   z-index: 1;
   transition: .3s ease-out;
+  margin: 0px 0px 20px 5px;
 }
 
 .waves-effect .waves-ripple {
@@ -6135,7 +6136,7 @@ textarea.materialize-textarea + label:after {
 
 .input-field {
   position: relative;
-  margin-top: 1rem;
+  margin-top: 3rem;
 }
 
 .input-field.inline {
